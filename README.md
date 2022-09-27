@@ -1,5 +1,4 @@
 # String to CSV
-Simple PHP projects to calculate commission percentage for client into into different currencies.
 
 ### Pre-requisite: 
 - [Docker](https://docs.docker.com/get-docker/)
